@@ -21,7 +21,7 @@ p {
 
 header {
     background-color: hsl(193, 100%, 96%);
-    padding: 60px 70px;
+    padding: 60px 40px;
 }
 
 .header-top {
@@ -34,7 +34,7 @@ header {
 .header-top img {
     max-width: 120px;
     max-height: 30px;
-    margin-right: 5px;
+    margin-right: 60px;
 }
 
 .header-top button {
